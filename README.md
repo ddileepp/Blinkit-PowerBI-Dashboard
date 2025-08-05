@@ -7,7 +7,7 @@ This Power BI dashboard provides data-driven insights for **Blinkit**, a quick-c
 ## 👨‍💼 About the Author
 
 **Devi Dileep** – Power BI Developer & Data Visualization Expert  
-📇 [Connect on LinkedIn](https://www.linkedin.com/in/devidileep/)
+📇 [Connect on LinkedIn](https://www.linkedin.com/in/devi-dileep-chodapuneedi/)
 
 ---
 
